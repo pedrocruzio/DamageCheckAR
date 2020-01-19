@@ -2,9 +2,10 @@
 <img src="/original.png" width="200">
 
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
+<img src="/magicleapdev.png" width="200">
 
 ### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
-<img src="/magicleapdev.png" width="200">
+
 #### - [MagicLEAP Augmented Reality](https://developer.magicleap.com/home)
 #### - iOS Mobile Application [ARKit](https://developer.apple.com/augmented-reality/arkit/) & [CoreML](https://developer.apple.com/documentation/coreml)
 
