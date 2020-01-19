@@ -1,16 +1,12 @@
 # DamageCheckAR
 
-## Augmented Reality Earthquake Damage Assessment Tool / Simulator
+## Augmented Reality Earthquake Damage iOS Assessment Tool / AR Simulator
 
 ### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
 
-## Installation
+# Installation
 
-#### MagicLeap Developer - https://developer.magicleap.com/learn/guides/develop-setup
-
-### Developer Notes
-
-### MAGIC LEAP
+### MagicLeap Developer - https://developer.magicleap.com/learn/guides/develop-setup
 
 - Here are a few helpful links to help you get started with Magic Leap Development! 
 - Sign up for a developer ID here at our developer portal. https://developer.magicleap.com/home 
@@ -28,7 +24,6 @@ https://www.gimp.org/downloads/
 - Made the maps with 3d map generator adobe plugin and height mapper. 
 Then transfer the obj and mtl file to unity3d and then insert a png if no texture shows up. 
 
-
 ## Inspiration
 
 - Creating Augmented Reality Experience to Assess & Simulate Earthquake Damage
@@ -39,17 +34,20 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 ## How we built it
 
-### MagicLEAP Augmented Reality Technology
-### Unity3D 
-### 3D Map Generator - Adobe Plugin 
-### Google Maps Satellite Images
-### 8th Wall
-### Adobe Photoshop
-### Adobe XD
+- MagicLEAP Augmented Reality
+- Unity3D 
+- 3D Map Generator - Adobe Plugin 
+- Google Maps Satellite Images
+- 8th Wall
+- Adobe Photoshop
+- Adobe XD
+- iMovie
+- CoreML
+- ARKit 
  
 ## Challenges we ran into
 
-- 3D Map Generation Cannot Render in Real-Time, Hardware Issues with SDK & Building application, Operating System Drivers Incompatibility, Importing 3D Models, Scaling Environmental Variables, Integrating Audio Cues, Time Crunch utilizing Hardware 
+- 3D Map Generation Cannot Render in Real-Time, Hardware Issues with SDK & Building application, Operating System Drivers Incompatibility, Importing 3D Models, Scaling Environmental Variables, Integrating Audio Cues, Utilizing AR Hardware 
 
 ## Accomplishments that we are proud of!
 
@@ -57,12 +55,12 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 ## What we have learned
 
-### MagicLeap AR Development, 3D Map Generation, Stereo to Mono Audio Conversions, Domain Knowledge / Types of Structural Damage to Walls, Columns & Foundations, 
+- MagicLeap AR Development, 3D Map Generation, Stereo to Mono Audio Conversions, Domain Knowledge / Types of Structural Damage to Walls, Columns & Foundations, 
 
 ## What's next for DamageCheckAR
 
-### iOS Mobile Application for Visual Inspection with Artificial Intelligence & Machine Learning
-### NormCore - Multi-User Collaboration through Spacial Anchors
+- iOS Mobile Application for Visual Inspection with Artificial Intelligence & Machine Learning
+- NormCore - Multi-User Collaboration through Spacial Anchors
 
 ## Tools we utilized 
 
@@ -70,10 +68,11 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 - https://unity.com
 - https://www.8thwall.com/products-xr
 - https://www.3d-map-generator.com/
+- https://developer.apple.com/documentation/arkit
+- https://developer.apple.com/documentation/coreml
  
 ## Resources / Research 
 
-- https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
 - http://www.curee.org/projects/EDA/docs/QED-02_2004-1.pdf
 - https://www.iitk.ac.in/nicee/wcee/article/2592.pdf
 - https://arxiv.org/pdf/1812.05659.pdf 
@@ -87,3 +86,4 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 ### Photos: 
 
 - https://www.rescue.org/article/earthquake-haiti
+- https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
