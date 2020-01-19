@@ -60,7 +60,7 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 ## Accomplishments that we are proud of
 
-- Scaling 3D Models in MagicLeap Augmented Reality, Linking Structural Audio Cues, Creating Interactive Spacial Experiences for Earthquake Simulation, Cross Platform AR & Mobile Integration 
+- Mixed Reality Spacial Computer, Scaling 3D Models in MagicLeap Augmented Reality, Linking Structural Audio Cues, Creating Interactive Spacial Experiences for Earthquake Simulation, Cross Platform AR & Mobile Integration 
 
 ## What we have learned
 
@@ -71,6 +71,7 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 - iOS Mobile Application for Visual Inspection with Artificial Intelligence & Machine Learning
 - NormCore - Multi-User Collaboration through Spacial Anchors
 
+<img src="/PR.png" width="700">
 <img src="/plates.png" width="600">
 
 ## Tools we utilized 
@@ -107,4 +108,4 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 - https://www.rescue.org/article/earthquake-haiti
 - https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
 
-<img src="/PR.png" width="700">
+<img src="/guanica.jpg" width="600">
