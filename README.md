@@ -1,15 +1,17 @@
 # DamageCheckAR
 
+	![DamageCheckAR](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/037/datas/original.png)
+
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
 
 ### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
 
-#### - MagicLEAP Augmented Reality
-#### - iOS Mobile Application (ARToolKit & CoreML)
+#### - [MagicLEAP Augmented Reality](https://developer.magicleap.com/home)
+#### - iOS Mobile Application [ARKit](https://developer.apple.com/augmented-reality/arkit/) & [CoreML](https://developer.apple.com/documentation/coreml)
 
 # Installation
 
-### MagicLeap Developer - https://developer.magicleap.com/learn/guides/develop-setup
+### [MagicLeap Developer](https://developer.magicleap.com/learn/guides/develop-setup)
 
 - Here are a few helpful links to help you get started with Magic Leap Development! 
 - Sign up for a developer ID here at our developer portal. https://developer.magicleap.com/home 
@@ -50,7 +52,7 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
  
 ## Challenges we ran into
 
-- 3D Map Generation Cannot Render in Real-Time, Hardware Issues with SDK & Building application, Operating System Drivers Incompatibility, Importing 3D Models, Scaling Environmental Variables, Integrating Audio Cues, Utilizing AR Hardware 
+- 3D Map Generation Cannot Render in Real-Time, Hardware Issues with SDK & Building Application, Operating System Drivers Incompatibility, Importing 3D Models, Scaling Environmental Variables, Integrating Audio Cues, Utilizing AR Hardware 
 
 ## Accomplishments that we are proud of!
 
@@ -73,7 +75,9 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 - https://www.3d-map-generator.com/
 - https://developer.apple.com/documentation/arkit
 - https://developer.apple.com/documentation/coreml
- 
+- https://www.google.com/maps/place/Puerto+Rico/@18.2078363,-67.7074406,8z/data=!3m1!4b1!4m5!3m4!1s0x8c0296261b92a7f9:0xf336ec2818049b1a!8m2!3d18.220833!4d-66.590149
+- https://www.audacityteam.org/ 
+
 ## Resources / Research 
 
 - http://www.curee.org/projects/EDA/docs/QED-02_2004-1.pdf
