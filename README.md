@@ -2,7 +2,7 @@
 
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
 
-### Visualizing Structural Damage to Buildings, Walls & Columns 
+### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
 
 ## Installation
 
@@ -72,6 +72,18 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 - https://www.3d-map-generator.com/
  
 ## Resources / Research 
+
 - https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
 - http://www.curee.org/projects/EDA/docs/QED-02_2004-1.pdf
 - https://www.iitk.ac.in/nicee/wcee/article/2592.pdf
+- https://arxiv.org/pdf/1812.05659.pdf 
+
+### Audio Effects - For AR Simulation 
+
+- https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-14566/zapsplat_zapsplat_nature_earthquake_earth_crack_debris_rock-split_fall_in_17775.mp3?_=1
+- https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-14566/zapsplat_zapsplat_nature_earthquake_rumble_crack_appear_debris_fall_into_movement_17776.mp3?_=2
+- https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-blastwave-fx/Blastwave_FX_EarthquakeWithDebris_HV.213.mp3?_=3
+
+### Photos: 
+
+- https://www.rescue.org/article/earthquake-haiti
