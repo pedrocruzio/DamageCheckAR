@@ -9,6 +9,9 @@
 #### - [MagicLEAP Augmented Reality](https://developer.magicleap.com/home)
 #### - iOS Mobile Application [ARKit](https://developer.apple.com/augmented-reality/arkit/) & [CoreML](https://developer.apple.com/documentation/coreml)
 
+# Screenshot
+<img src="/screenshot.png" width="700">
+
 # Installation
 
 ### [MagicLeap Developer](https://developer.magicleap.com/learn/guides/develop-setup)
@@ -23,6 +26,7 @@ Terrain.party - move map to the desired location then save file, but remember at
 https://www.gimp.org/downloads/
 
 ### MAGIC MAPS
+<img src="/map.png" width="600">
 
 - Tools that we used -  https://www.3d-map-generator.com/ which was the fastest compared to mapbox unity which wasn’t compatible well with magic leap due to rendering issues, files exported from adobe as an obj, mtl and png file just in case a texture.
 
@@ -66,6 +70,8 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 - iOS Mobile Application for Visual Inspection with Artificial Intelligence & Machine Learning
 - NormCore - Multi-User Collaboration through Spacial Anchors
+
+<img src="/plates.png" width="600">
 
 ## Tools we utilized 
 
