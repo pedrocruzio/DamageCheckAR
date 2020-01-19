@@ -8,6 +8,7 @@
 
 #### - [MagicLEAP Augmented Reality](https://developer.magicleap.com/home)
 #### - iOS Mobile Application [ARKit](https://developer.apple.com/augmented-reality/arkit/) & [CoreML](https://developer.apple.com/documentation/coreml)
+<img src="/coreml.png" width="300">
 
 ## Screenshot
 <img src="/screenshot.png" width="700">
