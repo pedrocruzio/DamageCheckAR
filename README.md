@@ -6,13 +6,13 @@
 
 ### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
 
-### - [MagicLEAP Augmented Reality](https://developer.magicleap.com/home)
-#### - [LuminSDK](https://developer.magicleap.com/learn/guides/lumin-sdk-latest-release-notes)
+### - [Magicleap Augmented Reality](https://developer.magicleap.com/home)
+#### - [Magicleap LuminSDK](https://developer.magicleap.com/learn/guides/lumin-sdk-latest-release-notes)
 
 #### - iOS Mobile Application [ARKit](https://developer.apple.com/augmented-reality/arkit/) & [CoreML](https://developer.apple.com/documentation/coreml)
 <img src="/coreml.png" width="300">
 
-## Screenshot
+## MagicLeap Screenshots
 <img src="/screenshot.png" width="700">
 
 ## Earthquake Infographics
@@ -20,7 +20,7 @@
 
 # Installation
 
-### [MagicLeap Developer](https://developer.magicleap.com/learn/guides/develop-setup)
+### [Magicleap Developer](https://developer.magicleap.com/learn/guides/develop-setup)
 
 - Here are a few helpful links to help you get started with Magic Leap Development! 
 - Sign up for a developer ID here at our developer portal. https://developer.magicleap.com/home 
@@ -32,7 +32,10 @@ Terrain.party - move map to the desired location then save file, but remember at
 https://www.gimp.org/downloads/
 
 ### MAGIC MAPS
-<img src="/map.png" width="700">
+<img src="/map1.jpg" width="800">
+
+### SEISMIC Activity
+<img src="/Fig1.jpg" width="500">
 
 - Tools that we used -  https://www.3d-map-generator.com/ which was the fastest compared to mapbox unity which wasn’t compatible well with magic leap due to rendering issues, files exported from adobe as an obj, mtl and png file just in case a texture.
 
