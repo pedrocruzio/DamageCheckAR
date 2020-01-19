@@ -71,7 +71,7 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 ### https://www.3d-map-generator.com/
  
 ## Resources / Research 
-https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
-http://www.curee.org/projects/EDA/docs/QED-02_2004-1.pdf
-https://www.iitk.ac.in/nicee/wcee/article/2592.pdf
+- https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
+- http://www.curee.org/projects/EDA/docs/QED-02_2004-1.pdf
+- https://www.iitk.ac.in/nicee/wcee/article/2592.pdf
 
