@@ -1,6 +1,6 @@
 # DamageCheckAR
 
-## Augmented Reality Earthquake Damage Simulator
+## Augmented Reality Earthquake Damage Assessment Tool / Simulator
 
 ### Visualizing Structural Damage to Buildings, Walls & Columns 
 
