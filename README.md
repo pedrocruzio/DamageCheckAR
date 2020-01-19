@@ -1,6 +1,5 @@
 # DamageCheckAR
-<img src="Assets/icon.png" width="200">
-<img src"https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/037/datas/original.png" width="300">
+<img src="/original.png" width="200">
 
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
 
