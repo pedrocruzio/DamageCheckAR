@@ -6,8 +6,8 @@
 
 ### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
 
-### - [Magicleap Augmented Reality](https://developer.magicleap.com/home)
-#### - [Magicleap LuminSDK](https://developer.magicleap.com/learn/guides/lumin-sdk-latest-release-notes)
+### - [MagicLeap Augmented Reality](https://developer.magicleap.com/home)
+#### - [MagicLeap LuminSDK](https://developer.magicleap.com/learn/guides/lumin-sdk-latest-release-notes)
 
 #### - iOS Mobile Application [ARKit](https://developer.apple.com/augmented-reality/arkit/) & [CoreML](https://developer.apple.com/documentation/coreml)
 <img src="/coreml.png" width="300">
@@ -17,7 +17,7 @@
 
 # Installation
 
-### [Magicleap Developer](https://developer.magicleap.com/learn/guides/develop-setup)
+### [MagicLeap Developer](https://developer.magicleap.com/learn/guides/develop-setup)
 
 - Here are a few helpful links to help you get started with Magic Leap Development! 
 - Sign up for a developer ID here at our developer portal. https://developer.magicleap.com/home 
