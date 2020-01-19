@@ -2,10 +2,10 @@
 
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
 
-### - MagicLEAP Augmented Reality
-### - iOS Mobile Application
-
 ### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
+
+#### - MagicLEAP Augmented Reality
+#### - iOS Mobile Application (ARToolKit & CoreML)
 
 # Installation
 
