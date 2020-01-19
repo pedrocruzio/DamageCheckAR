@@ -23,18 +23,19 @@ https://www.gimp.org/downloads/
 
 ### MAGIC MAPS
 
-Tools that we used -  https://www.3d-map-generator.com/ which was the fastest compared to mapbox unity which wasn’t compatible well with magic leap due to rendering issues, luckily files exported from adobe as an obj, mtl and png file just in case a texture.
+- Tools that we used -  https://www.3d-map-generator.com/ which was the fastest compared to mapbox unity which wasn’t compatible well with magic leap due to rendering issues, files exported from adobe as an obj, mtl and png file just in case a texture.
 
-Made the maps with 3d map generator adobe plugin and height mapper. 
+- Made the maps with 3d map generator adobe plugin and height mapper. 
 Then transfer the obj and mtl file to unity3d and then insert a png if no texture shows up. 
+
 
 ## Inspiration
 
-### Creating Augmented Reality Experience to Assess & Simulate Earthquake Damage
+- Creating Augmented Reality Experience to Assess & Simulate Earthquake Damage
 
 ## What it does
 
-#### Distinguishing Earthquake Damage and Structural Integrity through Visual Inspection 
+- Distinguishing Earthquake Damage and Structural Integrity through Visual Inspection 
 
 ## How we built it
 
@@ -48,11 +49,11 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
  
 ## Challenges we ran into
 
-### 3D Map Generation Cannot Render in Real-Time, Hardware Issues with SDK & Building application, Operating System Drivers Incompatibility, Importing 3D Models, Scaling Environmental Variables, Integrating Audio Cues, Time Crunch utilizing Hardware 
+- 3D Map Generation Cannot Render in Real-Time, Hardware Issues with SDK & Building application, Operating System Drivers Incompatibility, Importing 3D Models, Scaling Environmental Variables, Integrating Audio Cues, Time Crunch utilizing Hardware 
 
 ## Accomplishments that we are proud of!
 
-### Scaling 3D Models in MagicLeap Augmented Reality, Linking Structural Audio Cues, Creating Interactive Spacial Experiences for Earthquake Simulation, Cross Platform AR & Mobile Integration 
+- Scaling 3D Models in MagicLeap Augmented Reality, Linking Structural Audio Cues, Creating Interactive Spacial Experiences for Earthquake Simulation, Cross Platform AR & Mobile Integration 
 
 ## What we have learned
 
@@ -65,13 +66,12 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 ## Tools we utilized 
 
-### https://www.magicleap.com
-### https://unity.com
-### https://www.8thwall.com/products-xr
-### https://www.3d-map-generator.com/
+- https://www.magicleap.com
+- https://unity.com
+- https://www.8thwall.com/products-xr
+- https://www.3d-map-generator.com/
  
 ## Resources / Research 
 - https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
 - http://www.curee.org/projects/EDA/docs/QED-02_2004-1.pdf
 - https://www.iitk.ac.in/nicee/wcee/article/2592.pdf
-
