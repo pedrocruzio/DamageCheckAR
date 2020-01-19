@@ -1,6 +1,6 @@
 # DamageCheckAR
 
-![DamageCheckAR](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/037/datas/original.png)
+![DamageCheckAR](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/037/datas/original.png =50x50)
 
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
 
@@ -54,7 +54,7 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 - 3D Map Generation Cannot Render in Real-Time, Hardware Issues with SDK & Building Application, Operating System Drivers Incompatibility, Importing 3D Models, Scaling Environmental Variables, Integrating Audio Cues, Utilizing AR Hardware 
 
-## Accomplishments that we are proud of!
+## Accomplishments that we are proud of
 
 - Scaling 3D Models in MagicLeap Augmented Reality, Linking Structural Audio Cues, Creating Interactive Spacial Experiences for Earthquake Simulation, Cross Platform AR & Mobile Integration 
 
@@ -76,7 +76,9 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 - https://developer.apple.com/documentation/arkit
 - https://developer.apple.com/documentation/coreml
 - https://www.google.com/maps/place/Puerto+Rico/@18.2078363,-67.7074406,8z/data=!3m1!4b1!4m5!3m4!1s0x8c0296261b92a7f9:0xf336ec2818049b1a!8m2!3d18.220833!4d-66.590149
-- https://www.audacityteam.org/ 
+- https://www.audacityteam.org/
+- https://www.adobe.com/products/photoshop.html
+- https://www.adobe.com/products/xd.html
 
 ## Resources / Research 
 
