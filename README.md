@@ -1,6 +1,6 @@
 # DamageCheckAR
 
-	![DamageCheckAR](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/037/datas/original.png)
+![DamageCheckAR](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/914/037/datas/original.png)
 
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
 
