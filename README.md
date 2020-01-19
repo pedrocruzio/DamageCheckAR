@@ -15,9 +15,6 @@
 ## MagicLeap Screenshots
 <img src="/screenshot.png" width="700">
 
-## Earthquake Infographics
-<img src="/PR.png" width="700">
-
 # Installation
 
 ### [Magicleap Developer](https://developer.magicleap.com/learn/guides/develop-setup)
@@ -43,6 +40,9 @@ https://www.gimp.org/downloads/
 Then transfer the obj and mtl file to unity3d and then insert a png if no texture shows up. 
 
 ## Inspiration
+
+### Earthquakes in Puerto Rico
+<img src="/PR.png" width="600">
 
 - Creating Augmented Reality Experience to Assess & Simulate Earthquake Damage
 
