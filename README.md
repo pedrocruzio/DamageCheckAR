@@ -59,7 +59,7 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 ## What we have learned
 
-- MagicLeap AR Development, 3D Map Generation, Stereo to Mono Audio Conversions, Domain Knowledge / Types of Structural Damage to Walls, Columns & Foundations, 
+- MagicLeap AR Development, 3D Map Generation, Stereo to Mono Audio Conversions, Domain Knowledge / Types of Structural Damage to Walls, Columns & Foundations, Earthquake Simulation, iOS application development
 
 ## What's next for DamageCheckAR
 
@@ -95,3 +95,5 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 - https://www.rescue.org/article/earthquake-haiti
 - https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
+
+<img src="/PR.png" width="700">
