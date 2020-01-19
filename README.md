@@ -2,15 +2,18 @@
 <img src="/original.png" width="200">
 
 ## Augmented Reality Earthquake Damage Assessment Tool / Simulator
-<img src="/magicleapdev.png" width="200">
+<img src="/magicleapdev.png" width="300">
 
 ### Visual Analysis of Structural Damage to Buildings, Walls & Columns 
 
 #### - [MagicLEAP Augmented Reality](https://developer.magicleap.com/home)
 #### - iOS Mobile Application [ARKit](https://developer.apple.com/augmented-reality/arkit/) & [CoreML](https://developer.apple.com/documentation/coreml)
 
-# Screenshot
+## Screenshot
 <img src="/screenshot.png" width="700">
+
+## Earthquake Infographics
+<img src="/PR.png" width="700">
 
 # Installation
 
@@ -26,7 +29,7 @@ Terrain.party - move map to the desired location then save file, but remember at
 https://www.gimp.org/downloads/
 
 ### MAGIC MAPS
-<img src="/map.png" width="600">
+<img src="/map.png" width="700">
 
 - Tools that we used -  https://www.3d-map-generator.com/ which was the fastest compared to mapbox unity which wasn’t compatible well with magic leap due to rendering issues, files exported from adobe as an obj, mtl and png file just in case a texture.
 
@@ -105,6 +108,8 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 - https://www.rescue.org/article/earthquake-haiti
 - https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
 
-<img src="/PR.png" width="700">
-<img src="/plates.png" width="600">
+## Puerto Rico - Tectonic Plates
+<img src="/plates.png" width="700">
+
+## Puerto Rico - Guanica
 <img src="/guanica.jpg" width="600">
