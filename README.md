@@ -81,8 +81,12 @@ Then transfer the obj and mtl file to unity3d and then insert a png if no textur
 
 ## Resources / Research 
 
+- https://www.usgs.gov/media/images/2020-puerto-rico-earthquake-sequence-jan-16-2020
 - http://www.curee.org/projects/EDA/docs/QED-02_2004-1.pdf
 - https://www.iitk.ac.in/nicee/wcee/article/2592.pdf
+- https://www.iitk.ac.in/nicee/wcee/article/0705.pdf
+- https://www.fema.gov/media-library-data/20130726-1507-20490-6988/fema_307.pdf
+- https://www.researchgate.net/publication/324707011_Crack_and_Noncrack_Classification_from_Concrete_Surface_Images_Using_Machine_Learning
 - https://arxiv.org/pdf/1812.05659.pdf 
 
 ### Audio Effects - For AR Simulation 
